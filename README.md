@@ -1,1 +1,1 @@
-# swgoh-frm-modeval
+# Star Wars Galaxy - Mod Evaluation Tool
